@@ -9,8 +9,8 @@ $$
 - for example, the satellite reaches within 10.000 seconds 3658km outside the atmosphere: 
 ```bash
 Please enter your desired seconds for orbiting the earth: 10000
-Your altidute of your satellite is: 3657750.1053808797 (km)
-Your altidute for once a day is 35832447.55432571 (km), for every 90min its 279321.63043892663 (km) and for every 45min its -2181559.8946194015 (km)
+Your altidute of your satellite is: 3657750.1053808797 (m)
+Your altidute for once a day is 35832447.55432571 (m), for every 90min its 279321.63043892663 (km) and for every 45min its -2181559.8946194015 (m)
 ```
 ![](Resources/Screenshot.png)
 > this is a Screenshot from the simulation 
